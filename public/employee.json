@@ -1,0 +1,22 @@
+{
+    "employee": [
+      {
+        "name": "Jhogkar mahbub",
+        "designation": "ceo of Programming hero",
+        "id": "em101",
+        "age": 26
+      },
+      {
+        "name": "Karina Islam",
+        "designation": "front en develpoer",
+        "id": "em102",
+        "age": 26
+      },
+      {
+        "name": "Ratna Kundu",
+        "designation": "Front end developer",
+        "id": "em103",
+        "age": 23
+      }
+    ]
+  }
